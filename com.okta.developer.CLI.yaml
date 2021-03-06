@@ -14,8 +14,8 @@ modules:
   - install -Dm644 metainfo.xml /app/share/metainfo/${FLATPAK_ID}.metainfo.xml
   sources:
   - type: archive
-    url: https://github.com/oktadeveloper/okta-cli/releases/download/okta-cli-tools-0.7.1/okta-cli-linux-0.7.1-x86_64.zip
-    sha256: afc8617711262b1230ad9411b6de7c0ed6e0496b929d6c90b6a3a7eb19fcbe16
+    url: https://github.com/okta/okta-cli/releases/download/okta-cli-tools-0.8.0/okta-cli-linux-0.8.0-x86_64.zip
+    sha256: c076c472854677129c93028ab601b4968927519dd068d705b4d8c45cf21fc80e
   - type: file
     path: icons/okta-logo-128.png
   - type: file
