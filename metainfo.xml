@@ -23,6 +23,9 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="0.8.0" date="2021-03-06">
+            <url>https://github.com/okta/okta-cli/releases/tag/okta-cli-tools-0.8.0</url>
+        </release>
         <release version="0.7.1" date="2020-11-20">
             <url>https://github.com/oktadeveloper/okta-cli/releases/tag/okta-cli-tools-0.7.1</url>
         </release>
